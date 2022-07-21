@@ -1,6 +1,5 @@
 import requests
 
-
 miles = float(input("Enter Miles: "))
 orderValue = float(input("Enter Order Value: "))
 
@@ -37,7 +36,6 @@ TotalTimeSpentOnOrder = totalDriveTime + loadUnloadTime + isLimitedMerchant * av
 if isLowkelMerchant == 0:
     TotalTimeSpentOnOrder += (numberOfUniqueItems *avgTimePerUnique + numberOfDuplicateItems * avgTimePerDuplicateItem + numberOfItemsOver7lbs * avgTimePerHeavyItem + numberOfSeaFoodItems * avgTimePerSeaFoodItem + numberOfFreshVegetableItems * avgTimePerFreshVegetableItem)
 
-
 carExpenses = ((miles/avgMPG)*avgPriceGas) + (carRepairPerMile * miles) + ((insurancePerMonth/avgMilesDrivenMonth) * miles)
 driverTip = 3
 lowkelPayToDriver = carExpenses + (TotalTimeSpentOnOrder * standardRate)
@@ -48,7 +46,7 @@ FinalRevenueToDriver = driverTip + lowkelPayToDriver
 if orderValue < 35:
     isDiscounted= 0
 else:
-    isDiscounted=1
+    isDiscounted = 1
 
 if isDiscounted== 0:
     if miles < 5:
@@ -77,14 +75,12 @@ elif isDiscounted == 1:
     elif miles < 30:
         lowkelPerDeliveryRevenue = 19.99
 
-
 merchantRevenuePercent = .08
 merchantRevenue = isLowkelMerchant * merchantRevenuePercent * orderValue
 creditCardProcessingFee = .029 * orderValue
 customerCharge = orderValue + driverTip + lowkelPerDeliveryRevenue
 
 orderProfit = lowkelPerDeliveryRevenue - lowkelPayToDriver - creditCardProcessingFee + merchantRevenue
-
 
 print("Driver Credit Card Processing fee: " + str(round(driverCreditCardProcessingFee,2)))
 print("Customer Credit Card Processing fee: " + str(round(creditCardProcessingFee,2)))
