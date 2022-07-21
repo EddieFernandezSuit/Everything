@@ -19,7 +19,6 @@ public class PlaygroundGame extends ApplicationAdapter {
 
     @Override
     public void create() {
-
         WIDTH = Gdx.graphics.getWidth();
         HEIGHT = Gdx.graphics.getHeight();
         cam = new OrthographicCamera();
@@ -39,9 +38,7 @@ public class PlaygroundGame extends ApplicationAdapter {
         Jukebox.load("sounds/smallsaucer.ogg", "smallsaucer");
         Jukebox.load("sounds/thruster.ogg", "thruster");
 
-
         gsm = new GameStateManager();
-
     }
 
     @Override
