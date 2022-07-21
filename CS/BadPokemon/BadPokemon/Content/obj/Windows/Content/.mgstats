@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/BattleUI.png","C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/bin/Windows/Content/BattleUI.xnb","TextureProcessor","Texture2DContent",4584,409685,0.1898941
+"C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/cursor.png","C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/bin/Windows/Content/cursor.xnb","TextureProcessor","Texture2DContent",345,4181,0.0035217
+"C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/doge.jpg","C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/bin/Windows/Content/doge.xnb","TextureProcessor","Texture2DContent",70632,2071525,0.0992166
+"C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/expBar.png","C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/bin/Windows/Content/expBar.xnb","TextureProcessor","Texture2DContent",147,10325,0.0049253
+"C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/font.spritefont","C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/bin/Windows/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70690,0.1239883
+"C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/grass.png","C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/bin/Windows/Content/grass.xnb","TextureProcessor","Texture2DContent",312,4181,0.0029871
+"C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/health.png","C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/bin/Windows/Content/health.xnb","TextureProcessor","Texture2DContent",228,20565,0.0038899
+"C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/meta.png","C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/bin/Windows/Content/meta.xnb","TextureProcessor","Texture2DContent",3453,63589,0.0046856
+"C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/Trainer.png","C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/bin/Windows/Content/Trainer.xnb","TextureProcessor","Texture2DContent",690,4181,0.002343
+"C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/Trek.png","C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/bin/Windows/Content/Trek.xnb","TextureProcessor","Texture2DContent",2376,65621,0.0057438

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Eddie/source/repos/Tyn/Tyn/Content/font.spritefont</SourceFile>
+  <SourceTime>2019-09-13T22:48:47.2783174-07:00</SourceTime>
+  <DestFile>C:/Users/Eddie/source/repos/Tyn/Tyn/Content/bin/DesktopGL/Content/font.xnb</DestFile>
+  <DestTime>2019-09-13T22:48:50.6031022-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T08:35:54-08:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T08:35:54-08:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

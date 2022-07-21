@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Eddie/source/repos/Multisechaos - Copy/Acacia Builder/Content/actionImage.png</File>
+    <File>C:/Users/Eddie/source/repos/Multisechaos - Copy/Acacia Builder/Content/attack.png</File>
+    <File>C:/Users/Eddie/source/repos/Multisechaos - Copy/Acacia Builder/Content/battleground.png</File>
+    <File>C:/Users/Eddie/source/repos/Multisechaos - Copy/Acacia Builder/Content/font.spritefont</File>
+    <File>C:/Users/Eddie/source/repos/Multisechaos - Copy/Acacia Builder/Content/member.png</File>
+    <File>C:/Users/Eddie/source/repos/Multisechaos - Copy/Acacia Builder/Content/player.png</File>
+    <File>C:/Users/Eddie/source/repos/Multisechaos - Copy/Acacia Builder/Content/player2.png</File>
+    <File>C:/Users/Eddie/source/repos/Multisechaos - Copy/Acacia Builder/Content/player3.png</File>
+    <File>C:/Users/Eddie/source/repos/Multisechaos - Copy/Acacia Builder/Content/player4.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

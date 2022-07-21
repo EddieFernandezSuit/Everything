@@ -1,0 +1,3 @@
+Offset: 213491 Size: 107615 MD5 Hash: 9774e7601f9e778d1e7dacd41dae042a File Path: C:\Users\Eddie\Downloads\SW_2018\input_repaired\_213491.jpeg
+Offset: 519091 Size: 70197 MD5 Hash: 8830dd14461d96f9db9397f4936914ee File Path: C:\Users\Eddie\Downloads\SW_2018\input_repaired\_519091.jpeg
+Offset: 834451 Size: 12597 MD5 Hash: 89e4bf18838c2a0dbe56b828ce0513ba File Path: C:\Users\Eddie\Downloads\SW_2018\input_repaired\_834451.jpeg

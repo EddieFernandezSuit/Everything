@@ -1,0 +1,17 @@
+C:\Users\Eddie\source\repos\boggle\bin\Debug\net6.0\boggle.exe
+C:\Users\Eddie\source\repos\boggle\bin\Debug\net6.0\boggle.deps.json
+C:\Users\Eddie\source\repos\boggle\bin\Debug\net6.0\boggle.runtimeconfig.json
+C:\Users\Eddie\source\repos\boggle\bin\Debug\net6.0\boggle.dll
+C:\Users\Eddie\source\repos\boggle\bin\Debug\net6.0\boggle.pdb
+C:\Users\Eddie\source\repos\boggle\obj\Debug\net6.0\boggle.csproj.AssemblyReference.cache
+C:\Users\Eddie\source\repos\boggle\obj\Debug\net6.0\boggle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eddie\source\repos\boggle\obj\Debug\net6.0\boggle.AssemblyInfoInputs.cache
+C:\Users\Eddie\source\repos\boggle\obj\Debug\net6.0\boggle.AssemblyInfo.cs
+C:\Users\Eddie\source\repos\boggle\obj\Debug\net6.0\boggle.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\source\repos\boggle\obj\Debug\net6.0\boggle.dll
+C:\Users\Eddie\source\repos\boggle\obj\Debug\net6.0\refint\boggle.dll
+C:\Users\Eddie\source\repos\boggle\obj\Debug\net6.0\boggle.pdb
+C:\Users\Eddie\source\repos\boggle\obj\Debug\net6.0\boggle.genruntimeconfig.cache
+C:\Users\Eddie\source\repos\boggle\obj\Debug\net6.0\ref\boggle.dll
+C:\Users\Eddie\source\repos\boggle\bin\Debug\net6.0\NetSpell.SpellChecker.dll
+C:\Users\Eddie\source\repos\boggle\obj\Debug\net6.0\boggle.csproj.CopyComplete

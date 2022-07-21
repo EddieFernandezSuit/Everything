@@ -1,0 +1,2 @@
+C:\Users\Eddie\source\repos\RoutePlanning3\RoutePlanning3\obj\Debug\RoutePlanning3.njsproj.CoreCompileInputs.cache
+C:\Users\Eddie\source\repos\RoutePlanning3\RoutePlanning3\bin\Microsoft.NodejsTools.WebRole.dll

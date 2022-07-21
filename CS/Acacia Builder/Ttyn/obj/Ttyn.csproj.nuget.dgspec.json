@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\Public\\Downloads\\Fun Projects\\Software Dev\\Acacia Builder\\Ttyn\\Ttyn.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\Public\\Downloads\\Fun Projects\\Software Dev\\Acacia Builder\\Audrey\\Audrey.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Users\\Public\\Downloads\\Fun Projects\\Software Dev\\Acacia Builder\\Audrey\\Audrey.csproj",
+        "projectName": "Audrey",
+        "projectPath": "D:\\Users\\Public\\Downloads\\Fun Projects\\Software Dev\\Acacia Builder\\Audrey\\Audrey.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\Users\\Public\\Downloads\\Fun Projects\\Software Dev\\Acacia Builder\\Ttyn\\Ttyn.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\Public\\Downloads\\Fun Projects\\Software Dev\\Acacia Builder\\Ttyn\\Ttyn.csproj",
+        "projectName": "Ttyn",
+        "projectPath": "D:\\Users\\Public\\Downloads\\Fun Projects\\Software Dev\\Acacia Builder\\Ttyn\\Ttyn.csproj",
+        "packagesPath": "C:\\Users\\Eddie\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Public\\Downloads\\Fun Projects\\Software Dev\\Acacia Builder\\Ttyn\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eddie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Users\\Public\\Downloads\\Fun Projects\\Software Dev\\Acacia Builder\\Audrey\\Audrey.csproj": {
+                "projectPath": "D:\\Users\\Public\\Downloads\\Fun Projects\\Software Dev\\Acacia Builder\\Audrey\\Audrey.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            },
+            "MonoGame.Framework.WindowsDX": {
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

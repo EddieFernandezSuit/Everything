@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Eddie/source/repos/BarryBollin/BarryBollin/Content/BarryBolin.png","C:/Users/Eddie/source/repos/BarryBollin/BarryBollin/Content/bin/Windows/Content/BarryBolin.xnb","TextureProcessor","Texture2DContent",264,4181,0.1598953
+"C:/Users/Eddie/source/repos/BarryBollin/BarryBollin/Content/bullet.png","C:/Users/Eddie/source/repos/BarryBollin/BarryBollin/Content/bin/Windows/Content/bullet.xnb","TextureProcessor","Texture2DContent",166,1109,0.002731
+"C:/Users/Eddie/source/repos/BarryBollin/BarryBollin/Content/bulleticon.png","C:/Users/Eddie/source/repos/BarryBollin/BarryBollin/Content/bin/Windows/Content/bulleticon.xnb","TextureProcessor","Texture2DContent",1026,4181,0.0029478
+"C:/Users/Eddie/source/repos/BarryBollin/BarryBollin/Content/font.spritefont","C:/Users/Eddie/source/repos/BarryBollin/BarryBollin/Content/bin/Windows/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,37922,0.1113975
+"C:/Users/Eddie/source/repos/BarryBollin/BarryBollin/Content/member.png","C:/Users/Eddie/source/repos/BarryBollin/BarryBollin/Content/bin/Windows/Content/member.xnb","TextureProcessor","Texture2DContent",154,4181,0.174809
+"C:/Users/Eddie/source/repos/BarryBollin/BarryBollin/Content/speedlines.png","C:/Users/Eddie/source/repos/BarryBollin/BarryBollin/Content/bin/Windows/Content/speedlines.xnb","TextureProcessor","Texture2DContent",130,213,0.0021429

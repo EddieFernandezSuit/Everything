@@ -1,0 +1,30 @@
+C:\Users\Eddie\source\repos\Ope\Audrey\bin\Debug\Audrey.dll
+C:\Users\Eddie\source\repos\Ope\Audrey\bin\Debug\Audrey.pdb
+C:\Users\Eddie\source\repos\Ope\Audrey\obj\Debug\Audrey.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\source\repos\Ope\Audrey\obj\Debug\Audrey.dll
+C:\Users\Eddie\source\repos\Ope\Audrey\obj\Debug\Audrey.pdb
+C:\Users\Eddie\source\repos\Ope\Audrey\obj\Debug\Audrey.csprojAssemblyReference.cache
+C:\Users\Eddie\source\repos\Tyn\Audrey\bin\Debug\Audrey.dll
+C:\Users\Eddie\source\repos\Tyn\Audrey\bin\Debug\Audrey.pdb
+C:\Users\Eddie\source\repos\Tyn\Audrey\obj\Debug\Audrey.csprojAssemblyReference.cache
+C:\Users\Eddie\source\repos\Tyn\Audrey\obj\Debug\Audrey.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\source\repos\Tyn\Audrey\obj\Debug\Audrey.dll
+C:\Users\Eddie\source\repos\Tyn\Audrey\obj\Debug\Audrey.pdb
+C:\Users\Eddie\source\repos\Acacia Builder\Audrey\bin\Debug\Audrey.dll
+C:\Users\Eddie\source\repos\Acacia Builder\Audrey\bin\Debug\Audrey.pdb
+C:\Users\Eddie\source\repos\Acacia Builder\Audrey\obj\Debug\Audrey.csprojAssemblyReference.cache
+C:\Users\Eddie\source\repos\Acacia Builder\Audrey\obj\Debug\Audrey.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\source\repos\Acacia Builder\Audrey\obj\Debug\Audrey.dll
+C:\Users\Eddie\source\repos\Acacia Builder\Audrey\obj\Debug\Audrey.pdb
+C:\Users\Eddie\source\repos\Multisechaos\Audrey\bin\Debug\Audrey.dll
+C:\Users\Eddie\source\repos\Multisechaos\Audrey\bin\Debug\Audrey.pdb
+C:\Users\Eddie\source\repos\Multisechaos\Audrey\obj\Debug\Audrey.csprojAssemblyReference.cache
+C:\Users\Eddie\source\repos\Multisechaos\Audrey\obj\Debug\Audrey.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\source\repos\Multisechaos\Audrey\obj\Debug\Audrey.dll
+C:\Users\Eddie\source\repos\Multisechaos\Audrey\obj\Debug\Audrey.pdb
+C:\Users\Eddie\source\repos\Multi COpy\Audrey\bin\Debug\Audrey.dll
+C:\Users\Eddie\source\repos\Multi COpy\Audrey\bin\Debug\Audrey.pdb
+C:\Users\Eddie\source\repos\Multi COpy\Audrey\obj\Debug\Audrey.csproj.AssemblyReference.cache
+C:\Users\Eddie\source\repos\Multi COpy\Audrey\obj\Debug\Audrey.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\source\repos\Multi COpy\Audrey\obj\Debug\Audrey.dll
+C:\Users\Eddie\source\repos\Multi COpy\Audrey\obj\Debug\Audrey.pdb

@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Eddie/source/repos/Tyn/Tyn/Content/cursor.png","C:/Users/Eddie/source/repos/Tyn/Tyn/Content/bin/DesktopGL/Content/cursor.xnb","TextureProcessor","Texture2DContent",345,4181,0.1136958
+"C:/Users/Eddie/source/repos/Tyn/Tyn/Content/doge.jpg","C:/Users/Eddie/source/repos/Tyn/Tyn/Content/bin/DesktopGL/Content/doge.xnb","TextureProcessor","Texture2DContent",70632,2071525,0.2219907
+"C:/Users/Eddie/source/repos/Tyn/Tyn/Content/font.spritefont","C:/Users/Eddie/source/repos/Tyn/Tyn/Content/bin/DesktopGL/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,37905,0.4020306
+"C:/Users/Eddie/source/repos/Tyn/Tyn/Content/font2.spritefont","C:/Users/Eddie/source/repos/Tyn/Tyn/Content/bin/DesktopGL/Content/font2.xnb","FontDescriptionProcessor","SpriteFontContent",2008,37905,0.3703932

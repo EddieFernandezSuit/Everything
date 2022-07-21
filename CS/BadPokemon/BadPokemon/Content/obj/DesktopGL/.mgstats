@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Eddie/source/repos/Ope/Ope/Content/cursor.png","C:/Users/Eddie/source/repos/Ope/Ope/Content/bin/DesktopGL/cursor.xnb","TextureProcessor","Texture2DContent",345,4181,0.1436158
+"C:/Users/Eddie/source/repos/Ope/Ope/Content/doge.jpg","C:/Users/Eddie/source/repos/Ope/Ope/Content/bin/DesktopGL/doge.xnb","TextureProcessor","Texture2DContent",70632,2071525,0.2014595
+"C:/Users/Eddie/source/repos/Ope/Ope/Content/font.spritefont","C:/Users/Eddie/source/repos/Ope/Ope/Content/bin/DesktopGL/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70673,0.2184155

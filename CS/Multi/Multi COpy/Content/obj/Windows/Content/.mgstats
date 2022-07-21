@@ -1,0 +1,10 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/actionImage.png","C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/bin/Windows/Content/actionImage.xnb","TextureProcessor","Texture2DContent",306,4181,0.2176042
+"C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/attack.png","C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/bin/Windows/Content/attack.xnb","TextureProcessor","Texture2DContent",213,4181,0.0043808
+"C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/battleground.png","C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/bin/Windows/Content/battleground.xnb","TextureProcessor","Texture2DContent",3155,331861,0.0167723
+"C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/font.spritefont","C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/bin/Windows/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,37922,0.1414464
+"C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/member.png","C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/bin/Windows/Content/member.xnb","TextureProcessor","Texture2DContent",154,4181,0.0042511
+"C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/player.png","C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/bin/Windows/Content/player.xnb","TextureProcessor","Texture2DContent",843,36949,0.0036325
+"C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/player2.png","C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/bin/Windows/Content/player2.xnb","TextureProcessor","Texture2DContent",843,36949,0.0053611
+"C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/player3.png","C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/bin/Windows/Content/player3.xnb","TextureProcessor","Texture2DContent",843,36949,0.0047639
+"C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/player4.png","C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/bin/Windows/Content/player4.xnb","TextureProcessor","Texture2DContent",846,36949,0.0033958

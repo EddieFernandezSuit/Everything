@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ferna_000\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.9.4\8816dd669b8ca09e7d5e9575807e92c4318f708\gdx-freetype-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08816dd669b8ca09e7d5e9575807e92c4318f708">
+        <dex dex="C:\Users\ferna_000\Documents\Projects\sshooter\android\build\intermediates\pre-dexed\debug\gdx-freetype-1.9.4_10c1e680499691ac883d50a93e41a64c59c2b3e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\ferna_000\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers-android\1.9.4\dd3d37ac9f03084edc1b1d9aa7c7b3e08b6744a3\gdx-controllers-android-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dd3d37ac9f03084edc1b1d9aa7c7b3e08b6744a3">
+        <dex dex="C:\Users\ferna_000\Documents\Projects\sshooter\android\build\intermediates\pre-dexed\debug\gdx-controllers-android-1.9.4_c1f4f325a272a0d6f05ed953fe30acb27b1eda6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ferna_000\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.4\4b4b7962d1bc75af0438f5c81ec1010557bc9ee5\gdx-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b4b7962d1bc75af0438f5c81ec1010557bc9ee5">
+        <dex dex="C:\Users\ferna_000\Documents\Projects\sshooter\android\build\intermediates\pre-dexed\debug\gdx-1.9.4_78aa0ea5b9a8b576c86bef7256eae94fe674a43d.jar" />
+    </item>
+    <item
+        jar="C:\Users\ferna_000\Documents\Projects\sshooter\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7be3273b76a9b61e77536852b2171d5c6e3d34b6">
+        <dex dex="C:\Users\ferna_000\Documents\Projects\sshooter\android\build\intermediates\pre-dexed\debug\core-1.0_5b2c4317563e9dbd4214303fa7c18ce967babe20.jar" />
+    </item>
+    <item
+        jar="C:\Users\ferna_000\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.4\194b33382d6d58fad031521ba3331d926c476c9b\gdx-backend-android-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="194b33382d6d58fad031521ba3331d926c476c9b">
+        <dex dex="C:\Users\ferna_000\Documents\Projects\sshooter\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.4_c9f18032da404b1dc85146b766d3a98e88778f2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\ferna_000\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers\1.9.4\d182ca36785df4226ef63009a3d96462952665c3\gdx-controllers-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d182ca36785df4226ef63009a3d96462952665c3">
+        <dex dex="C:\Users\ferna_000\Documents\Projects\sshooter\android\build\intermediates\pre-dexed\debug\gdx-controllers-1.9.4_f26537a1eadc004a1a337c02b4c031fb555f940e.jar" />
+    </item>
+
+</items>

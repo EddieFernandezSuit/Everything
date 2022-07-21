@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ferna_000\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.8.0\33979d6d61ea91a3a758717cbc6acf38fbb6aae2\gdx-backend-android-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="33979d6d61ea91a3a758717cbc6acf38fbb6aae2">
+        <dex dex="C:\Users\ferna_000\Documents\Projects\PlaygroundGame\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.8.0_19a103f501186f4cea63d2b181fd0b82970ad2fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\ferna_000\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.8.0\a87cfc0621180fd6976238366541d6211f9e18a4\gdx-box2d-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a87cfc0621180fd6976238366541d6211f9e18a4">
+        <dex dex="C:\Users\ferna_000\Documents\Projects\PlaygroundGame\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.8.0_589bb277cb4df3ac2469670baf2b11556b10a9a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\ferna_000\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.8.0\1b0670e281e8f72ed3a94c9afc6d73f6f5f27aed\gdx-freetype-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1b0670e281e8f72ed3a94c9afc6d73f6f5f27aed">
+        <dex dex="C:\Users\ferna_000\Documents\Projects\PlaygroundGame\android\build\intermediates\pre-dexed\debug\gdx-freetype-1.8.0_98c2ec17e96de2202f5660d0066edd31b6ce8f89.jar" />
+    </item>
+    <item
+        jar="C:\Users\ferna_000\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers-android\1.8.0\d4371d61fa7f86e7465f3d0956113c19a2a27227\gdx-controllers-android-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d4371d61fa7f86e7465f3d0956113c19a2a27227">
+        <dex dex="C:\Users\ferna_000\Documents\Projects\PlaygroundGame\android\build\intermediates\pre-dexed\debug\gdx-controllers-android-1.8.0_2d60b49c8a9c27f804373909df0baf778d95d53e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ferna_000\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.8.0\8aaf0d40f211e94051538d28b06996a6cc5ed2af\gdx-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8aaf0d40f211e94051538d28b06996a6cc5ed2af">
+        <dex dex="C:\Users\ferna_000\Documents\Projects\PlaygroundGame\android\build\intermediates\pre-dexed\debug\gdx-1.8.0_5cd4889e4354a280eef90820d5bea81c49c5eb4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\ferna_000\Documents\Projects\PlaygroundGame\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6d754c779447a713e41dbf5b05f15437c7308e23">
+        <dex dex="C:\Users\ferna_000\Documents\Projects\PlaygroundGame\android\build\intermediates\pre-dexed\debug\core-1.0_769575ae1f12227fddb41b35db85170c6791b705.jar" />
+    </item>
+    <item
+        jar="C:\Users\ferna_000\.gradle\caches\modules-2\files-2.1\com.badlogicgames.ashley\ashley\1.7.0\a7c4083c0a42027a3c03ba7ccecef6cbe1c5f0a4\ashley-1.7.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a7c4083c0a42027a3c03ba7ccecef6cbe1c5f0a4">
+        <dex dex="C:\Users\ferna_000\Documents\Projects\PlaygroundGame\android\build\intermediates\pre-dexed\debug\ashley-1.7.0_b7fde7673ce3536b3d689cfdee486032b8617494.jar" />
+    </item>
+    <item
+        jar="C:\Users\ferna_000\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers\1.8.0\bf285cf72cebbb4e0f364a2c9efbed2ee6bf54ba\gdx-controllers-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bf285cf72cebbb4e0f364a2c9efbed2ee6bf54ba">
+        <dex dex="C:\Users\ferna_000\Documents\Projects\PlaygroundGame\android\build\intermediates\pre-dexed\debug\gdx-controllers-1.8.0_a2d7e2e0b91fe346e9b6790bd7ebfb72cdbf8e58.jar" />
+    </item>
+
+</items>

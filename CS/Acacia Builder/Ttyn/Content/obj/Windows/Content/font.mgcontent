@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Users/Public/Downloads/Fun Projects/Software Dev/Acacia Builder/Ttyn/Content/font.spritefont</SourceFile>
+  <SourceTime>2019-09-13T22:48:47.2783174-07:00</SourceTime>
+  <DestFile>D:/Users/Public/Downloads/Fun Projects/Software Dev/Acacia Builder/Ttyn/Content/bin/Windows/Content/font.xnb</DestFile>
+  <DestTime>2022-07-19T22:24:34.6256048-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-10T09:17:54-07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-10T09:17:54-07:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

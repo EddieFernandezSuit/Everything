@@ -1,0 +1,15 @@
+C:\Users\Eddie\source\repos\bungie\bin\Debug\net6.0\bungie.exe
+C:\Users\Eddie\source\repos\bungie\bin\Debug\net6.0\bungie.deps.json
+C:\Users\Eddie\source\repos\bungie\bin\Debug\net6.0\bungie.runtimeconfig.json
+C:\Users\Eddie\source\repos\bungie\bin\Debug\net6.0\bungie.dll
+C:\Users\Eddie\source\repos\bungie\bin\Debug\net6.0\bungie.pdb
+C:\Users\Eddie\source\repos\bungie\obj\Debug\net6.0\bungie.csproj.AssemblyReference.cache
+C:\Users\Eddie\source\repos\bungie\obj\Debug\net6.0\bungie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eddie\source\repos\bungie\obj\Debug\net6.0\bungie.AssemblyInfoInputs.cache
+C:\Users\Eddie\source\repos\bungie\obj\Debug\net6.0\bungie.AssemblyInfo.cs
+C:\Users\Eddie\source\repos\bungie\obj\Debug\net6.0\bungie.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\source\repos\bungie\obj\Debug\net6.0\bungie.dll
+C:\Users\Eddie\source\repos\bungie\obj\Debug\net6.0\refint\bungie.dll
+C:\Users\Eddie\source\repos\bungie\obj\Debug\net6.0\bungie.pdb
+C:\Users\Eddie\source\repos\bungie\obj\Debug\net6.0\bungie.genruntimeconfig.cache
+C:\Users\Eddie\source\repos\bungie\obj\Debug\net6.0\ref\bungie.dll

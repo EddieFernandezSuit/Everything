@@ -1,0 +1,129 @@
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.csproj.AssemblyReference.cache
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.AssemblyInfoInputs.cache
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.AssemblyInfo.cs
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\Content\cursor.xnb
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\Content\doge.xnb
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\Content\font.xnb
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\Content\font2.xnb
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\Ttyn.exe
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\Ttyn.deps.json
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\Ttyn.runtimeconfig.json
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\Ttyn.runtimeconfig.dev.json
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\Ttyn.dll
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\Ttyn.pdb
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\Audrey.dll
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\bin\Debug\netcoreapp3.1\Audrey.pdb
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.csproj.CopyComplete
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.dll
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.pdb
+C:\Users\Eddie\source\repos\Ttyn\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.genruntimeconfig.cache
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Content\cursor.xnb
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Content\doge.xnb
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Content\font.xnb
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Content\font2.xnb
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Ttyn.exe
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Ttyn.deps.json
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Ttyn.runtimeconfig.json
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Ttyn.runtimeconfig.dev.json
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Ttyn.dll
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Ttyn.pdb
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.dll
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Audrey.dll
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Audrey.pdb
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.csproj.AssemblyReference.cache
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.AssemblyInfoInputs.cache
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.AssemblyInfo.cs
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.csproj.CoreCompileInputs.cache
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.csproj.CopyComplete
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.dll
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.pdb
+D:\Users\Public\Downloads\Fun Projects\Game Dev\Projects\Acacia Builder\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.genruntimeconfig.cache
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.dll
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.pdb
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Content\cursor.xnb
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Content\doge.xnb
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Content\font.xnb
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Content\font2.xnb
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Ttyn.exe
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Ttyn.deps.json
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Ttyn.runtimeconfig.json
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Ttyn.runtimeconfig.dev.json
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Ttyn.dll
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Ttyn.pdb
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.dll
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Audrey.dll
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\bin\Debug\netcoreapp3.1\Audrey.pdb
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.csproj.AssemblyReference.cache
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.AssemblyInfoInputs.cache
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.AssemblyInfo.cs
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.csproj.CoreCompileInputs.cache
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.csproj.CopyComplete
+D:\Users\Public\Downloads\Fun Projects\Software Dev\Acacia Builder\Ttyn\obj\Debug\netcoreapp3.1\Ttyn.genruntimeconfig.cache

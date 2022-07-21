@@ -1,0 +1,8 @@
+C:\Users\Eddie\source\repos\Ope\Audrey\bin\Release\Audrey.dll
+C:\Users\Eddie\source\repos\Ope\Audrey\obj\Release\Audrey.csprojAssemblyReference.cache
+C:\Users\Eddie\source\repos\Ope\Audrey\obj\Release\Audrey.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\source\repos\Ope\Audrey\obj\Release\Audrey.dll
+C:\Users\Eddie\source\repos\AcaciaBuilder-Copy\Audrey\bin\Release\Audrey.dll
+C:\Users\Eddie\source\repos\AcaciaBuilder-Copy\Audrey\obj\Release\Audrey.csprojAssemblyReference.cache
+C:\Users\Eddie\source\repos\AcaciaBuilder-Copy\Audrey\obj\Release\Audrey.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\source\repos\AcaciaBuilder-Copy\Audrey\obj\Release\Audrey.dll

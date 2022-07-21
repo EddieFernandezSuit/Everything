@@ -1,0 +1,42 @@
+Board Game Idea
+
+There are multiple ways to win the game
+	First player to max out any one stat wins
+
+Stats
+	Income
+	Money
+	Happiness
+		IQ
+		Physical efficiency
+		Strength 
+		Speed
+		Stress
+		Health 
+
+Each turn represents one month.
+Each turn you must spend money on housing.
+Each 12 turns you must pick a house to rent or buy.
+The place you live determines how much money you spend on housing and affects your happiness.
+Each 12 turns you must pick a job which determined your income.
+
+If you fall below 0 happiness then you lose the game. 
+If you fall below 1 happiness then you must spend an additional $10 each month.
+If you cant afford to pay rent then you become homeless. 
+If you are homeless then you do not pay rent.
+
+Each turn you can improve a stat. 
+You can spend more time at work to improve Salary.
+You can spend time having fun to improve happiness. 
+
+
+
+
+
+
+
+
+
+
+
+	

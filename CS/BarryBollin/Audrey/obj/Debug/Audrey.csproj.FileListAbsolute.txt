@@ -1,0 +1,24 @@
+C:\Users\Eddie\source\repos\Ope\Audrey\bin\Debug\Audrey.dll
+C:\Users\Eddie\source\repos\Ope\Audrey\bin\Debug\Audrey.pdb
+C:\Users\Eddie\source\repos\Ope\Audrey\obj\Debug\Audrey.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\source\repos\Ope\Audrey\obj\Debug\Audrey.dll
+C:\Users\Eddie\source\repos\Ope\Audrey\obj\Debug\Audrey.pdb
+C:\Users\Eddie\source\repos\Ope\Audrey\obj\Debug\Audrey.csprojAssemblyReference.cache
+C:\Users\Eddie\source\repos\Tyn\Audrey\bin\Debug\Audrey.dll
+C:\Users\Eddie\source\repos\Tyn\Audrey\bin\Debug\Audrey.pdb
+C:\Users\Eddie\source\repos\Tyn\Audrey\obj\Debug\Audrey.csprojAssemblyReference.cache
+C:\Users\Eddie\source\repos\Tyn\Audrey\obj\Debug\Audrey.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\source\repos\Tyn\Audrey\obj\Debug\Audrey.dll
+C:\Users\Eddie\source\repos\Tyn\Audrey\obj\Debug\Audrey.pdb
+C:\Users\Eddie\source\repos\Acacia Builder\Audrey\bin\Debug\Audrey.dll
+C:\Users\Eddie\source\repos\Acacia Builder\Audrey\bin\Debug\Audrey.pdb
+C:\Users\Eddie\source\repos\Acacia Builder\Audrey\obj\Debug\Audrey.csprojAssemblyReference.cache
+C:\Users\Eddie\source\repos\Acacia Builder\Audrey\obj\Debug\Audrey.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\source\repos\Acacia Builder\Audrey\obj\Debug\Audrey.dll
+C:\Users\Eddie\source\repos\Acacia Builder\Audrey\obj\Debug\Audrey.pdb
+C:\Users\Eddie\source\repos\AcaciaBuilder-Copy\Audrey\bin\Debug\Audrey.dll
+C:\Users\Eddie\source\repos\AcaciaBuilder-Copy\Audrey\bin\Debug\Audrey.pdb
+C:\Users\Eddie\source\repos\AcaciaBuilder-Copy\Audrey\obj\Debug\Audrey.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\source\repos\AcaciaBuilder-Copy\Audrey\obj\Debug\Audrey.dll
+C:\Users\Eddie\source\repos\AcaciaBuilder-Copy\Audrey\obj\Debug\Audrey.pdb
+C:\Users\Eddie\source\repos\AcaciaBuilder-Copy\Audrey\obj\Debug\Audrey.csproj.AssemblyReference.cache

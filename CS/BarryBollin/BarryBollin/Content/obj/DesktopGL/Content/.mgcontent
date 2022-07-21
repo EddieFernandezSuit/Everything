@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Eddie/source/repos/AcaciaBuilder-Copy/Acacia Builder/Content/BarryBolin.png</File>
+    <File>C:/Users/Eddie/source/repos/AcaciaBuilder-Copy/Acacia Builder/Content/bullet.png</File>
+    <File>C:/Users/Eddie/source/repos/AcaciaBuilder-Copy/Acacia Builder/Content/bulleticon.png</File>
+    <File>C:/Users/Eddie/source/repos/AcaciaBuilder-Copy/Acacia Builder/Content/font.spritefont</File>
+    <File>C:/Users/Eddie/source/repos/AcaciaBuilder-Copy/Acacia Builder/Content/member.png</File>
+    <File>C:/Users/Eddie/source/repos/AcaciaBuilder-Copy/Acacia Builder/Content/speedlines.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

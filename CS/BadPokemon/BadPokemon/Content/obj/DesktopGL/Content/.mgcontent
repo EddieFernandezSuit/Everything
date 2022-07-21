@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Eddie/source/repos/Ope/Ope/Content/BattleUI.png</File>
+    <File>C:/Users/Eddie/source/repos/Ope/Ope/Content/cursor.png</File>
+    <File>C:/Users/Eddie/source/repos/Ope/Ope/Content/doge.jpg</File>
+    <File>C:/Users/Eddie/source/repos/Ope/Ope/Content/expBar.png</File>
+    <File>C:/Users/Eddie/source/repos/Ope/Ope/Content/font.spritefont</File>
+    <File>C:/Users/Eddie/source/repos/Ope/Ope/Content/grass.png</File>
+    <File>C:/Users/Eddie/source/repos/Ope/Ope/Content/health.png</File>
+    <File>C:/Users/Eddie/source/repos/Ope/Ope/Content/meta.png</File>
+    <File>C:/Users/Eddie/source/repos/Ope/Ope/Content/Trainer.png</File>
+    <File>C:/Users/Eddie/source/repos/Ope/Ope/Content/Trek.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

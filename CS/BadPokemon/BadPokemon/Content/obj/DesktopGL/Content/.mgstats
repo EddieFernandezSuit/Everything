@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Eddie/source/repos/Ope/Ope/Content/BattleUI.png","C:/Users/Eddie/source/repos/Ope/Ope/Content/bin/DesktopGL/Content/BattleUI.xnb","TextureProcessor","Texture2DContent",4584,409685,0.147115
+"C:/Users/Eddie/source/repos/Ope/Ope/Content/cursor.png","C:/Users/Eddie/source/repos/Ope/Ope/Content/bin/DesktopGL/Content/cursor.xnb","TextureProcessor","Texture2DContent",345,4181,0.1386444
+"C:/Users/Eddie/source/repos/Ope/Ope/Content/doge.jpg","C:/Users/Eddie/source/repos/Ope/Ope/Content/bin/DesktopGL/Content/doge.xnb","TextureProcessor","Texture2DContent",70632,2071525,0.237381
+"C:/Users/Eddie/source/repos/Ope/Ope/Content/expBar.png","C:/Users/Eddie/source/repos/Ope/Ope/Content/bin/DesktopGL/Content/expBar.xnb","TextureProcessor","Texture2DContent",147,10325,0.1673165
+"C:/Users/Eddie/source/repos/Ope/Ope/Content/font.spritefont","C:/Users/Eddie/source/repos/Ope/Ope/Content/bin/DesktopGL/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70673,0.3151411
+"C:/Users/Eddie/source/repos/Ope/Ope/Content/grass.png","C:/Users/Eddie/source/repos/Ope/Ope/Content/bin/DesktopGL/Content/grass.xnb","TextureProcessor","Texture2DContent",312,4181,0.1136958
+"C:/Users/Eddie/source/repos/Ope/Ope/Content/health.png","C:/Users/Eddie/source/repos/Ope/Ope/Content/bin/DesktopGL/Content/health.xnb","TextureProcessor","Texture2DContent",228,20565,0.2038412
+"C:/Users/Eddie/source/repos/Ope/Ope/Content/meta.png","C:/Users/Eddie/source/repos/Ope/Ope/Content/bin/DesktopGL/Content/meta.xnb","TextureProcessor","Texture2DContent",3453,63589,0.1196808
+"C:/Users/Eddie/source/repos/Ope/Ope/Content/Trainer.png","C:/Users/Eddie/source/repos/Ope/Ope/Content/bin/DesktopGL/Content/Trainer.xnb","TextureProcessor","Texture2DContent",690,4181,0.1869763
+"C:/Users/Eddie/source/repos/Ope/Ope/Content/Trek.png","C:/Users/Eddie/source/repos/Ope/Ope/Content/bin/DesktopGL/Content/Trek.xnb","TextureProcessor","Texture2DContent",2376,65621,0.1816525

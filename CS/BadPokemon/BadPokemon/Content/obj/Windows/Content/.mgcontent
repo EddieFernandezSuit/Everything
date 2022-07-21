@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/BattleUI.png</File>
+    <File>C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/cursor.png</File>
+    <File>C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/doge.jpg</File>
+    <File>C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/expBar.png</File>
+    <File>C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/font.spritefont</File>
+    <File>C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/grass.png</File>
+    <File>C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/health.png</File>
+    <File>C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/meta.png</File>
+    <File>C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/Trainer.png</File>
+    <File>C:/Users/Eddie/source/repos/BadPokemon/BadPokemon/Content/Trek.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

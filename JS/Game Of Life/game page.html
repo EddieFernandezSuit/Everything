@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<style>
+canvas {
+    border:1px solid #d3d3d3;
+    background-color: #f1f1f1;
+}
+</style>
+</head>
+<body onload="startGame()">
+<script>
+
+var myGameArea = {
+    canvas : document.createElement("canvas"),
+    start : function() {
+        this.canvas.width = 480;
+        this.canvas.height = 270;
+        this.context = this.canvas.getContext("2d");
+        document.body.insertBefore(this.canvas, document.body.childNodes[0]);
+        this.interval = setInterval(updateGameArea, 20);
+        },
+    clear : function() {
+        this.context.clearRect(0, 0, this.canvas.width, this.canvas.height);
+    }
+}
+
+var money;
+var time;
+var day;
+
+function startGame() {
+    money = new text(10, 40, "Money: ", 0);
+    time = new text(10, 80, "Time: ", 16);
+    day = new text(10, 120, "Day: ", 1);
+    happiness = new text(10, 160, "Happiness: ", 100);
+    myGameArea.start();
+}
+
+function text(x, y, text, val){
+    this.x = x;
+    this.y = y;
+    this.text = text;
+    this.val = val;
+    this.update = function() {
+        this.text = this.text
+        ctx = myGameArea.context;
+        ctx.fillStyle = "black";
+        ctx.font = "30px" + " " + "Consolas";
+        ctx.fillText(this.text + this.val, this.x, this.y);
+    }
+}
+
+function updateGameArea() {
+    myGameArea.clear();
+    money.update();
+    time.update();
+    day.update();
+    happiness.update();
+}
+
+function checkTime(){
+    if(time.val <= 0){
+        time.val += 24;
+        day.val += 1;
+        if(day.val > 30){
+            day.val = 1;
+            money.val -= 1000;
+        }
+    }
+}
+function checkHappiness(){
+    if(happiness.val > 100){
+        happiness.val = 100;
+    }
+}
+
+function work() {
+    money.val += 40;
+    happiness.val -= 4;
+    if(happiness.val <= 0){
+        happiness.val = "Game Over"
+    }
+    time.val -= 4;
+    checkTime();
+}
+
+function sleep(){
+    happiness.val += 10;
+    time.val -= 8;
+    checkTime();
+    checkHappiness();
+}
+
+</script>
+<br>
+<button onmousedown="work()" >WORK</button>
+<button onmousedown="sleep()" >SLEEP</button>
+</body>
+</html>

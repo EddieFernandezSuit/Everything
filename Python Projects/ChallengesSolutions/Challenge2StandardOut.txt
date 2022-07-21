@@ -1,0 +1,6 @@
+b'2. Data Link\x00\x00\x00\x00' b'Provides error-free transfer of data frames from one node to another over the Physical layer.'
+b'3. Network\x00\x00\x00\x00\x00\x00' b'Controls the operations of the subnet deciding which physical path the data takes.'
+b'4. Transport\x00\x00\x00\x00' b'Ensures that messages are delivered error-free, in sequence, and with no losses or duplications.'
+b'6. Presentation\x00' b'Formats the data to be presented to the Application layer. It can be viewed as the "Translator" for the network.'
+b'7. Application\x00\x00' b'Serves as the window for users and application processes to access the network services.'
+b'8. User\x00\x00\x00\x00\x00\x00\x00\x00\x00' b'Determines what the computer should compute. This layer is the most error prone.'

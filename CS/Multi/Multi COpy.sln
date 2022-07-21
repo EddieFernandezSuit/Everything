@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi COpy", "Multi COpy\Multi COpy.csproj", "{3B8124A2-8588-4E7A-B972-DE3E5CB59DA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Audrey", "Audrey\Audrey.csproj", "{C72322BB-8FC2-46A4-9FBD-A6D3012C4A16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B8124A2-8588-4E7A-B972-DE3E5CB59DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8124A2-8588-4E7A-B972-DE3E5CB59DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8124A2-8588-4E7A-B972-DE3E5CB59DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8124A2-8588-4E7A-B972-DE3E5CB59DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C72322BB-8FC2-46A4-9FBD-A6D3012C4A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72322BB-8FC2-46A4-9FBD-A6D3012C4A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72322BB-8FC2-46A4-9FBD-A6D3012C4A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72322BB-8FC2-46A4-9FBD-A6D3012C4A16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78E0ADF1-60EF-4FFC-8E72-659E78F2E9EA}
+	EndGlobalSection
+EndGlobal

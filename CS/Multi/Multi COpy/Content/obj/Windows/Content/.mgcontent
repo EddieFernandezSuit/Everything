@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/actionImage.png</File>
+    <File>C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/attack.png</File>
+    <File>C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/battleground.png</File>
+    <File>C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/font.spritefont</File>
+    <File>C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/member.png</File>
+    <File>C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/player.png</File>
+    <File>C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/player2.png</File>
+    <File>C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/player3.png</File>
+    <File>C:/Users/Eddie/source/repos/Multi COpy/Multi COpy/Content/player4.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
