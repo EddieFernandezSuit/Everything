@@ -1,9 +1,0 @@
-{
-  "name": "route-planning",
-  "version": "0.0.0",
-  "description": "RoutePlanning",
-  "main": "app.js",
-  "author": {
-    "name": ""
-  }
-}

@@ -1,3 +1,0 @@
-C:\Users\Eddie\source\repos\RoutePlanning4\RoutePlanning4\obj\Debug\RoutePlanning4.njsproj.CoreCompileInputs.cache
-C:\Users\Eddie\source\repos\RoutePlanning4\RoutePlanning4\bin\Microsoft.NodejsTools.WebRole.dll
-C:\Users\Eddie\source\repos\RoutePlanning4\RoutePlanning4\obj\Debug\RoutePlanning4.njsproj.AssemblyReference.cache
