@@ -1,5 +1,3 @@
-from email.errors import FirstHeaderLineIsContinuationDefect
-from pickle import TRUE
 import pandas as pd
 import math
 import pygame
@@ -10,6 +8,8 @@ from mtgsdk import Set
 from urllib.request import urlopen
 from datetime import date
 import re
+
+
 
 class Color:
     GREY = (150, 150, 150)
@@ -125,29 +125,31 @@ def update(game):
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             sys.exit()
-        if event.type == pygame.MOUSEBUTTONDOWN:
+        if event.type == pygame.KEYDOWN and event.key == pygame.K_SPACE:
             print("Finding Cards")
-            game.image = []
-            game.lotNum = []
-            game.name = []
-            game.set = []
-            game.condition = []
+            # game.images = []
+            # game.lotNum = []
+            # game.name = []
+            # game.set = []
+            # game.condition = []
             shipType = 'normal'
             
-            for j in range(12):
-                # print('card' + str(j))
+            for j in range(4):
                 inventory = pd.read_csv("inventory.csv")
                 newCards = pd.read_csv("new.csv")
                 for column in newCards.columns:
                     if column == 'Card Name' or column == 'Product Name':
-                        if column == 'Product Name':
-                            shipType = 'normal'
+                        # if column == 'Product Name':
+                            # shipType = 'normal'
                         if column == 'Card Name':
                             shipType = 'direct'
                         
                         newCards = newCards.rename(columns={column: 'Name'})
                     elif column == 'Set Name':
                         newCards = newCards.rename(columns={column: 'Set'})
+                if len(newCards.index) < 1:
+                    print('Complete')
+                    break
                 
                 name = newCards["Name"][0]
                 set = newCards["Set"][0]
@@ -175,11 +177,6 @@ def update(game):
                     inventory.loc[index, "Quantity"] = str(int(inventory["Quantity"][index]) - 1)
                     price = float(inventory["Price"][index][1:])
                     lot = inventory["Lot"][index]
-                    # if inventory["Lot"][index] == "49 or RR" or inventory["Lot"][index] == "49 or RR SYP" or inventory["Lot"][index] == "Reimursement Return" or inventory["Lot"][index] == "Tlot":
-                    #     lot2 = 'RR'
-                    # elif inventory["Lot"][index] == "48 SYP":
-                    #     lot2 = '49'
-                    # else:
                     lot2 = int(math.floor(float(inventory["Lot"][index])))
                     if int(inventory["Quantity"][index]) <= 0:
                         inventory = inventory.drop([index])
@@ -196,6 +193,12 @@ def update(game):
                 game.name.append(name)
                 game.set.append(set)
                 game.condition.append(condition)
+                if len(game.lotNum) > 12:
+                    game.image.pop(0)
+                    game.lotNum.pop(0)
+                    game.name.pop(0)
+                    game.set.pop(0)
+                    game.condition.pop(0)
 
 def cardImage(game, cardName, set):
     # cards = Card.where(name=name).where(set_name=set).all()
@@ -203,15 +206,13 @@ def cardImage(game, cardName, set):
     set = removeParentheses(set).rstrip()
     print(cardName)
     cards = Card.where(name=cardName).all()
-    image_url = ""
-    # image_url = "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=491806&type=card"
+    image_url = "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=491806&type=card"
 
     for card in cards:
         if card.set_name == set:
             image_url = card.image_url
             break
-    if image_url == "" or image_url is None:
-        image_url = "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=491806&type=card"
+
     image_str = urlopen(image_url).read()
     image_file = io.BytesIO(image_str)  # create a file object (stream)
     image = pygame.image.load(image_file)
@@ -284,3 +285,4 @@ while True:
     elif command == '7':
         print('GoodBye')
         break
+

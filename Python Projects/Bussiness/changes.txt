@@ -1,0 +1,5 @@
+Now you have to press space bar
+
+Now the screen does not close when its done, instead it will say 'complete' in the terminal
+
+now cards will show up 4 at a time and the line of cards will slide to the left
