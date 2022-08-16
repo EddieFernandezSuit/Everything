@@ -38,25 +38,64 @@
 #     [0, 1]
 
 def solution(times, time_limit):
-    # print(list(permutations([1,2,3,4,5,6,7]))[0])
     grandList = []
-    bestRoute = []
+    maxBunnies = [0]
+    minID = [100000]
+
     def recurse(remaining, list):
-        for index, x in enumerate(remaining):
+        for index in range(len(remaining)):
             if len(list) == 0 or remaining[index] != list[len(list) - 1]:
                 newList = list.copy()
                 newList.append(remaining[index])
-                # print(newList)
                 if(index == len(remaining) - 1):
-                    # totalTime
-                    grandList.append(newList)
+                    lastIndex = 0
+                    totalTime = 0
+                    bunnyCount = 0
+                    sumWorkerID = 0
+                    for placeIndex in newList:
+                        if placeIndex != 0 and placeIndex != len(times) - 1:
+                            bunnyCount += 1
+                            sumWorkerID += placeIndex
+                        totalTime += times[lastIndex][placeIndex]
+                        lastIndex = placeIndex
+
+                    if totalTime - time_limit <= 0:
+                        if bunnyCount > maxBunnies[0]:
+                            maxBunnies[0] = bunnyCount
+                            grandList.append(newList)
+                        elif bunnyCount == maxBunnies[0]:
+                            if sumWorkerID < minID[0]:
+                                minID[0] = sumWorkerID
+                                grandList.append(newList)
                     
                 newRemaining = remaining.copy()
                 if index != len(remaining) - 1:
-                    newRemaining.remove(remaining[index]) 
+                    newRemaining.remove(remaining[index])
                 recurse(newRemaining, newList)
-    recurse([1,2,3], [])
-    print(grandList)
+                
+    placeList = list(range(len(times)))
+    recurse(placeList, [])
+
+    # print(grandList)
+    savedBunnyIDs = []
+
+    for x in grandList[len(grandList) - 1]:
+        if x != 0 and x != len(times) - 1:
+            savedBunnyIDs.append(x-1)
+
+    sortedBunnies = []
+    while len(savedBunnyIDs) > 0:
+        min = 1000
+        for x in savedBunnyIDs:
+            if x < min:
+                min = x
+        sortedBunnies.append(min)
+        savedBunnyIDs.remove(min)
+
+    return sortedBunnies
+
 
 s = solution([[0, 2, 2, 2, -1], [9, 0, 2, 2, -1], [9, 3, 0, 2, -1], [9, 3, 2, 0, -1], [9, 3, 2, 2, 0]], 1)
+print(s)
+s = solution([[0, 1, 1, 1, 1], [1, 0, 1, 1, 1], [1, 1, 0, 1, 1], [1, 1, 1, 0, 1], [1, 1, 1, 1, 0]], 3)
 print(s)

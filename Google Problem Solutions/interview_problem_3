@@ -1,0 +1,62 @@
+using System;  
+using System.IO;  
+using System.Net;
+using System.Collections.Generic;
+
+class MainClass {
+  
+  static void Main() {  
+    
+    List<int> index = new List<int>();
+    int quotes = 0;
+    string data = "";
+    string result = "";
+
+    WebRequest request = WebRequest.Create("https://coderbyte.com/api/challenges/json/json-cleaning");
+    WebResponse response = request.GetResponse();
+    
+    // Console.WriteLine(response);
+    using(var reader = new StreamReader(response.GetResponseStream())){
+      result = reader.ReadToEnd();
+      Console.WriteLine(result);
+    }
+    response.Close();
+
+
+
+    for(int i = 0; i < result.Length; i++){
+      if(result[i] == '"'){
+        quotes += 1;
+        if(quotes == 2){
+          quotes = 0;
+          if(data == "N/A" || data == "-" || data == "" || data == @"N\/A"){
+            index.Add(i);
+          }
+          data = "";
+        }
+      }
+      else if(quotes == 1){
+        data += result[i];
+      }
+    }
+
+    // quotes = 0;
+    for(int i = index.Count - 1; i >= 0; i--){
+      int j = index[i];
+      
+      while(result[j] != ',' && result[j] != '{'){
+        result = result.Remove(j,1);
+        j -= 1;
+      }
+
+      if(result[j] == ','){
+        result = result.Remove(j, 1);
+      }
+      else{
+        result = result.Remove(j + 1, 1);
+      }
+    }
+    Console.WriteLine(result);
+  } 
+   
+}
