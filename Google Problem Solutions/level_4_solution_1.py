@@ -43,6 +43,11 @@ def solution(times, time_limit):
     minID = [100000]
 
     def recurse(remaining, list):
+        lastIndex = 0
+        totalTime = 0
+        bunnyCount = 0
+        sumWorkerID = 0
+
         for index in range(len(remaining)):
             if len(list) == 0 or remaining[index] != list[len(list) - 1]:
                 newList = list.copy()
@@ -73,10 +78,8 @@ def solution(times, time_limit):
                     newRemaining.remove(remaining[index])
                 recurse(newRemaining, newList)
                 
-    placeList = list(range(len(times)))
+    placeList = list(range(1,len(times)))
     recurse(placeList, [])
-
-    # print(grandList)
     savedBunnyIDs = []
 
     for x in grandList[len(grandList) - 1]:
@@ -94,8 +97,9 @@ def solution(times, time_limit):
 
     return sortedBunnies
 
-
 s = solution([[0, 2, 2, 2, -1], [9, 0, 2, 2, -1], [9, 3, 0, 2, -1], [9, 3, 2, 0, -1], [9, 3, 2, 2, 0]], 1)
 print(s)
-s = solution([[0, 1, 1, 1, 1], [1, 0, 1, 1, 1], [1, 1, 0, 1, 1], [1, 1, 1, 0, 1], [1, 1, 1, 1, 0]], 3)
-print(s)
+# s = solution([[0, 1, 1, 1, 1], [1, 0, 1, 1, 1], [1, 1, 0, 1, 1], [1, 1, 1, 0, 1], [1, 1, 1, 1, 0]], 3)
+# print(s)
+
+# def solution2(times, time_limit):
