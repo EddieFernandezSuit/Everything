@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>D:/Users/Public/Downloads/Fun Projects/Software Dev/Acacia Builder/Ttyn/Content/doge.jpg</SourceFile>
+  <SourceFile>d:/Users/Public/Downloads/Software Dev/everything/CS/Acacia Builder/Ttyn/Content/doge.jpg</SourceFile>
   <SourceTime>2019-05-12T00:08:45.613786-07:00</SourceTime>
-  <DestFile>D:/Users/Public/Downloads/Fun Projects/Software Dev/Acacia Builder/Ttyn/Content/bin/Windows/Content/doge.xnb</DestFile>
-  <DestTime>2022-07-19T22:24:34.2456211-07:00</DestTime>
+  <DestFile>d:/Users/Public/Downloads/Software Dev/everything/CS/Acacia Builder/Ttyn/Content/bin/Windows/Content/doge.xnb</DestFile>
+  <DestTime>2022-08-19T19:34:47.930798-07:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T09:17:54-07:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
