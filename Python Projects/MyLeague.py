@@ -2,7 +2,6 @@ import pygame
 import sys
 import random
 
-
 def overlap(tl1, br1, tl2, br2):
     if tl1[0] == br1[0] or tl1[1] == br2[1] or tl2[0] == br2[0] or tl2[1] == br2[1]:
         return False
@@ -17,7 +16,6 @@ def overlap(tl1, br1, tl2, br2):
 
 def rectRect(r1x, r1y, r1w, r1h, r2x, r2y, r2w, r2h):
     # are the sides of one rectangle touching the other?
-
     return r1x + r1w >= r2x and r1x <= r2x + r2w and r1y + r1h >= r2y and r1y <= r2y + r2h
 
 

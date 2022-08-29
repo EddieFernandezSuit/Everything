@@ -3,14 +3,12 @@ def isEven(num):
         return True
     return False
 
-
 def numberOf2(num):
     count = 0
     while (num % 2) == 0:
         count += 1
         num = num / 2
     return count
-
 
 def threexplusone(num):
     set = [num]

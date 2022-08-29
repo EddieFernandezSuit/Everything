@@ -37,21 +37,19 @@
 # Output:
 #     [0, 1]
 
+
 def solution(times, time_limit):
     grandList = []
     maxBunnies = [0]
     minID = [100000]
+    sList = []
 
     def recurse(remaining, list):
-        lastIndex = 0
-        totalTime = 0
-        bunnyCount = 0
-        sumWorkerID = 0
-
         for index in range(len(remaining)):
-            if len(list) == 0 or remaining[index] != list[len(list) - 1]:
+            if remaining[index] != list[len(list) - 1]:
                 newList = list.copy()
                 newList.append(remaining[index])
+                
                 if(index == len(remaining) - 1):
                     lastIndex = 0
                     totalTime = 0
@@ -76,26 +74,21 @@ def solution(times, time_limit):
                 newRemaining = remaining.copy()
                 if index != len(remaining) - 1:
                     newRemaining.remove(remaining[index])
-                recurse(newRemaining, newList)
-                
+
+                if(len(newRemaining) > 0):
+                    recurse(newRemaining, newList)
+    
     placeList = list(range(1,len(times)))
-    recurse(placeList, [])
+    recurse(placeList, [0])
     savedBunnyIDs = []
 
     for x in grandList[len(grandList) - 1]:
         if x != 0 and x != len(times) - 1:
             savedBunnyIDs.append(x-1)
 
-    sortedBunnies = []
-    while len(savedBunnyIDs) > 0:
-        min = 1000
-        for x in savedBunnyIDs:
-            if x < min:
-                min = x
-        sortedBunnies.append(min)
-        savedBunnyIDs.remove(min)
+    savedBunnyIDs.sort()
 
-    return sortedBunnies
+    return savedBunnyIDs
 
 s = solution([[0, 2, 2, 2, -1], [9, 0, 2, 2, -1], [9, 3, 0, 2, -1], [9, 3, 2, 0, -1], [9, 3, 2, 2, 0]], 1)
 print(s)
