@@ -54,7 +54,6 @@ Quantity,Name,Set,Foil,Condition,Language,SKU,Price,Lot
 1,Thrashing Brontodon,Rivals of Ixalan,Normal,Lightly Played,English,3570025,0.1,25.0
 3,Sleeper's Guile,Urza's Legacy,Normal,Lightly Played,English,369163,0.23,25.0
 1,Drag Under,Welcome Deck 2017,Normal,Lightly Played,English,3367801,0.1,25.0
-1,Naiad of Hidden Coves,Theros Beyond Death,Foil,Lightly Played Foil,English,4297592,0.41,25.0
 2,Riptide Turtle,Theros Beyond Death,Foil,Lightly Played Foil,English,4314214,0.33,25.0
 1,Droning Bureaucrats,Guildpact,Normal,Lightly Played,English,374847,0.1,25.0
 1,Proud Mentor,Battlebond,Foil,Near Mint Foil,English,3748747,0.24,25.0
@@ -555,7 +554,6 @@ Quantity,Name,Set,Printing,Condition,Language,SKU,Price Each,Lot
 1,Pledge of Unity,War of the Spark,Normal,Lightly Played,English,4004480,$0.24,58
 2,Rotwidow Pack,Modern Horizons,Normal,Lightly Played,English,4073819,$0.10,58
 1,Kruphix's Insight,Commander 2018,Normal,Lightly Played,English,3808759,$0.13,58
-1,Migratory Greathorn (Showcase),Ikoria: Lair of Behemoths,Normal,Lightly Played,English,4374934,$0.11,58
 1,Migratory Greathorn,Ikoria: Lair of Behemoths,Normal,Lightly Played,English,4377254,$0.10,58
 5,Veteran Motorist,Kaladesh,Normal,Lightly Played,English,3204423,$0.10,58
 1,Domri's Ambush,War of the Spark,Normal,Lightly Played,English,4002421,$0.15,58
@@ -922,7 +920,6 @@ Quantity,Name,Set,Printing,Condition,Language,SKU,Price Each,Lot
 1,Chainer's Torment,Dominaria,Normal,Lightly Played,English,3613760,$0.10,59
 1,Cryptic Serpent,Amonkhet,Normal,Lightly Played,English,3327421,$0.11,59
 1,Deluge,Duels of the Planeswalkers,Normal,Lightly Played,English,1167345,$0.16,59
-1,Depths of Desire,Ixalan,Normal,Lightly Played,English,3470321,$0.10,59
 2,Doomed Dissenter,Amonkhet,Normal,Lightly Played,English,3327441,$0.12,59
 2,Elvish Rejuvenator,Core Set 2019,Normal,Lightly Played,English,3761534,$0.11,59
 1,Eternal Skylord,War of the Spark,Normal,Lightly Played,English,3999165,$0.24,59
@@ -1195,7 +1192,7 @@ Quantity,Name,Set,Printing,Condition,Language,SKU,Price Each,Lot
 3,Sporeback Wolf,Innistrad: Crimson Vow,Normal,Near Mint,English,5290843,$0.012,62
 4,Steelclad Spirit,Innistrad: Crimson Vow,Normal,Near Mint,English,5285183,$0.012,62
 3,Stitched Assistant,Innistrad: Crimson Vow,Normal,Near Mint,English,5285623,$0.012,62
-3,Stormchaser Drake,Innistrad: Crimson Vow,Normal,Near Mint,English,5273596,$0.084,62
+2,Stormchaser Drake,Innistrad: Crimson Vow,Normal,Near Mint,English,5273596,$0.084,62
 3,Supernatural Rescue,Innistrad: Crimson Vow,Normal,Near Mint,English,5288453,$0.012,62
 3,Sure Strike,Innistrad: Crimson Vow,Normal,Near Mint,English,5287383,$0.012,62
 5,Swamp (400),Innistrad: Crimson Vow,Normal,Near Mint,English,5267367,$0.084,62
@@ -1212,7 +1209,7 @@ Quantity,Name,Set,Printing,Condition,Language,SKU,Price Each,Lot
 3,Wandering Mind,Innistrad: Crimson Vow,Normal,Near Mint,English,5271304,$0.084,62
 3,Wanderlight Spirit,Innistrad: Crimson Vow,Normal,Near Mint,English,5286173,$0.012,62
 6,Wedding Security,Innistrad: Crimson Vow,Normal,Near Mint,English,5261220,$0.012,62
-3,Whispering Wizard,Innistrad: Crimson Vow,Normal,Near Mint,English,5263520,$0.012,62
+2,Whispering Wizard,Innistrad: Crimson Vow,Normal,Near Mint,English,5263520,$0.012,62
 3,Witch's Web,Innistrad: Crimson Vow,Normal,Near Mint,English,5291253,$0.012,62
 2,Witness the Future,Innistrad: Crimson Vow,Normal,Near Mint,English,5263635,$0.012,62
 3,Wolf Strike,Innistrad: Crimson Vow,Normal,Near Mint,English,5291473,$0.012,62
@@ -1516,7 +1513,6 @@ Quantity,Name,Set,Printing,Condition,Language,SKU,Price Each,Lot
 1,Murder,Commander: Zendikar Rising,Normal,Near Mint,English,4584950,$0.12,63
 1,Murmuring Phantasm,Jumpstart,Normal,Near Mint,English,4478069,$0.22799999999999998,63
 1,Nameless Inversion,Modern Masters 2015,Normal,Near Mint,English,2878470,$0.156,63
-1,Nature's Way,Kaladesh,Normal,Near Mint,English,3204142,$0.12,63
 1,Necrosynthesis,Innistrad: Midnight Hunt,Normal,Near Mint,English,5170063,$0.12,63
 1,New Horizons,Jumpstart,Normal,Near Mint,English,4476425,$0.132,63
 1,Nissa's Chosen,Duel Decks: Nissa vs. Ob Nixilis,Normal,Near Mint,English,3197969,$0.288,63
@@ -1644,7 +1640,6 @@ Quantity,Name,Set,Printing,Condition,Language,SKU,Price Each,Lot
 2,Worldheart Phoenix,Modern Masters 2015,Normal,Near Mint,English,2880127,$0.144,63
 2,Wreath of Geists,Innistrad,Normal,Near Mint,English,500327,$0.12,63
 1,Zombie Brute,Legions,Normal,Near Mint,English,23130,$0.168,63
-1,Sliver Token,Magic 2014 (M14),Normal,Damaged,English,1162684,$0.648,63
 1,Tolsimir Wolfblood,Ravnica: City of Guilds,Normal,Heavily Played,English,359027,$1.152,63
 1,Trinket Mage,Fifth Dawn,Normal,Damaged,English,326270,$0.192,63
 1,Red Elemental Blast,Masters 25,Normal,Damaged,English,3608776,$3.756,63
@@ -2225,7 +2220,6 @@ Quantity,Name,Set,Printing,Condition,Language,SKU,Price Each,Lot
 1,Gift of Orzhova,Modern Masters 2017,Normal,Near Mint,English,3318777,$0.13,65
 1,Goblin Motivator,Core Set 2019,Normal,Near Mint,English,3760437,$0.19,65
 1,Golgari Raiders,Guilds of Ravnica,Normal,Near Mint,English,3848598,$0.1,65
-1,Gray Merchant of Asphodel,Theros Beyond Death,Normal,Near Mint,English,4287108,$0.49,65
 1,Griffin Guide,Duel Decks: Heroes vs. Monsters,Normal,Near Mint,English,1131050,$0.15,65
 2,Grim Initiate,War of the Spark,Normal,Near Mint,English,3990389,$0.11,65
 1,Haazda Marshal,Guilds of Ravnica,Normal,Near Mint,English,3850468,$0.13,65
@@ -2258,7 +2252,7 @@ Quantity,Name,Set,Printing,Condition,Language,SKU,Price Each,Lot
 1,New Benalia,Duel Decks: Heroes vs. Monsters,Normal,Near Mint,English,1180661,$0.12,65
 1,No-Dachi,Champions of Kamigawa,Normal,Lightly Played,English,373741,$0.14,65
 1,Oblivion Ring,Magic 2013 (M13),Normal,Near Mint,English,939156,$0.24,65
-2,Open the Gates,Ravnica Allegiance,Normal,Near Mint,English,3957673,$0.13,65
+1,Open the Gates,Ravnica Allegiance,Normal,Near Mint,English,3957673,$0.13,65
 1,Origin Spellbomb,Scars of Mirrodin,Normal,Near Mint,English,393738,$0.13,65
 2,Perilous Myr,Scars of Mirrodin,Normal,Near Mint,English,395055,$0.09,65
 1,Phyrexian Totem,Time Spiral,Normal,Near Mint,English,25925,$0.17,65
@@ -2405,7 +2399,6 @@ Quantity,Name,Set,Printing,Condition,Language,SKU,Price Each,Lot
 1,Death by Dragons,Mystery Booster Cards,Normal,Near Mint,English,4274960,$0.2,65
 3,"Callaphe, Beloved of the Sea (Showcase)",Theros Beyond Death,Normal,Near Mint,English,4299772,$0.12,65
 1,Condescend,Mystery Booster Cards,Normal,Near Mint,English,4270918,$0.29,65
-1,Destiny Spinner,Theros Beyond Death,Normal,Near Mint,English,4302883,$4.97,65
 2,Sentinel Spider,Magic 2013 (M13),Normal,Near Mint,English,939167,$0.12,65
 1,Arms Dealer,Magic 2013 (M13),Normal,Near Mint,English,939161,$0.22,65
 1,Auramancer's Guise,Planar Chaos,Normal,Damaged,English,328457,$0.0,65
@@ -2560,9 +2553,7 @@ Quantity,Name,Set,Printing,Condition,Language,SKU,Price Each,Lot
 1,Flood of Tears,Commander: Innistrad: Crimson Vow,Normal,Near Mint,English,5299273,$0.54,66
 1,Ghostly Pilferer,Commander: Innistrad: Crimson Vow,Normal,Near Mint,English,5296278,$0.57,66
 1,Necropolis Regent,Commander: Innistrad: Crimson Vow,Normal,Near Mint,English,5298728,$0.4,66
-1,Sanctum Seeker,Commander: Innistrad: Crimson Vow,Normal,Near Mint,English,5299173,$0.58,66
 1,"Chandra, Fire Artisan",War of the Spark,Normal,Near Mint,Japanese,4014975,$0.53,66
-1,Martyr's Bond,Signature Spellbook: Gideon,Normal,Near Mint,English,4007433,$0.48,66
 3,Engulf the Shore,Shadows over Innistrad,Normal,Near Mint,English,3099719,$0.56,66
 1,Irencrag Pyromancer,Throne of Eldraine,Foil,Near Mint,English,4205624,$0.54,66
 1,Ire Shaman,Dragons of Tarkir,Normal,Near Mint,English,2741824,$0.12,66
@@ -2582,7 +2573,7 @@ Quantity,Name,Set,Printing,Condition,Language,SKU,Price Each,Lot
 1,Aquitect's Will,Lorwyn,Normal,Near Mint,English,2271,$0.41,67
 2,Bant Sureblade,Alara Reborn,Normal,Near Mint,English,262808,$0.15,67
 1,Battlefront Krushok,Fate Reforged,Normal,Near Mint,English,1279095,$0.11,67
-3,Become Immense,Khans of Tarkir,Normal,Near Mint,English,1257987,$0.14,67
+2,Become Immense,Khans of Tarkir,Normal,Near Mint,English,1257987,$0.14,67
 3,Behemoth Sledge,Alara Reborn,Normal,Lightly Played,English,378485,$0.15,67
 1,Behemoth Sledge,Duel Decks: Ajani vs. Nicol Bolas,Normal,Near Mint,English,500306,$0.31,67
 1,Blisterpod,Battle for Zendikar,Normal,Near Mint,English,2956406,$0.1,67
@@ -2650,7 +2641,6 @@ Quantity,Name,Set,Printing,Condition,Language,SKU,Price Each,Lot
 2,Jedit's Dragoons,Duel Decks: Venser vs. Koth,Normal,Near Mint,English,850272,$0.08,67
 1,Jedit's Dragoons,Time Spiral,Normal,Near Mint,English,25873,$0.1,67
 1,Jhovall Rider,Mercadian Masques,Normal,Moderately Played,English,337835,$0.05,67
-1,Joraga Treespeaker,Rise of the Eldrazi,Normal,Moderately Played,English,386651,$2.77,67
 5,Kami of False Hope,Betrayers of Kamigawa,Normal,Moderately Played,English,342400,$1.04,67
 1,Kami of the Honored Dead,Betrayers of Kamigawa,Normal,Lightly Played,English,373918,$0.14,67
 1,Kiora's Dismissal,Journey Into Nyx,Normal,Lightly Played,English,1182773,$0.08,67
@@ -2958,7 +2948,6 @@ Quantity,Name,Set,Printing,Condition,Language,SKU,Price Each,Lot
 1,Moonglove Winnower,Lorwyn,Normal,Near Mint,English,3591,$0.11,67
 1,Moonlit Strider,Modern Masters 2015,Normal,Near Mint,English,2879277,$0.1,67
 4,Moonmist,Innistrad,Normal,Near Mint,English,500374,$0.25,67
-1,Morbid Curiosity,Kaladesh,Normal,Near Mint,English,3200731,$0.09,67
 1,Mulch,Commander 2015,Normal,Near Mint,English,3005247,$0.2,67
 2,Mulch,Innistrad,Normal,Near Mint,English,505946,$0.15,67
 1,Murder,Conspiracy: Take the Crown,Normal,Near Mint,English,3195575,$0.1,67
@@ -3130,7 +3119,6 @@ Quantity,Name,Set,Printing,Condition,Language,SKU,Price Each,Lot
 1,Murder,Magic 2013 (M13),Normal,Near Mint,English,936916,$0.1,67
 1,Tribute to the Wild,Commander,Normal,Lightly Played,English,473686,$0.11,67
 1,Master Splicer,New Phyrexia,Normal,Lightly Played,English,418220,$0.08,67
-1,Penance,Exodus,Normal,Lightly Played,English,367215,$0.41,67
 1,Sapseep Forest,Duel Decks: Ajani vs. Nicol Bolas,Normal,Near Mint,English,500315,$0.23,67
 1,Faith's Shield,Dark Ascension,Normal,Near Mint,English,764560,$0.23,67
 1,Caravan Vigil,Innistrad,Normal,Lightly Played,English,506793,$0.14,67
@@ -3210,7 +3198,6 @@ Quantity,Name,Set,Printing,Condition,Language,SKU,Price Each,Lot
 1,Fiery Temper,Shadows over Innistrad,Normal,Near Mint,English,3095392,$0.08,67
 1,Fire Whip,Weatherlight,Normal,Near Mint,English,19522,$0.16,67
 1,Fists of Ironwood,Modern Masters 2017,Normal,Near Mint,English,3318707,$0.13,67
-1,Fleeting Distraction,Conspiracy: Take the Crown,Normal,Near Mint,English,3195075,$0.11,67
 1,Fleeting Distraction,Conspiracy: Take the Crown,Normal,Near Mint,English,3195075,$0.11,67
 2,Fog of Gnats,Urza's Legacy,Normal,Near Mint,English,19807,$0.1,67
 1,Forbidden Alchemy,Innistrad,Normal,Near Mint,English,505294,$0.1,67
@@ -3315,7 +3302,6 @@ Quantity,Name,Set,Printing,Condition,Language,SKU,Price Each,Lot
 1,Teleportal,Modern Masters 2017,Normal,Near Mint,English,3319667,$0.21,67
 2,Call of the Conclave,Modern Masters 2017,Normal,Near Mint,English,3318447,$0.11,67
 1,Madcap Skills,Modern Masters 2017,Normal,Near Mint,English,3318957,$0.11,67
-1,Rootborn Defenses,Modern Masters 2017,Normal,Near Mint,English,3319197,$0.22,67
 1,Ghostly Flicker,Modern Masters 2017,Normal,Near Mint,English,3318747,$0.95,67
 2,Mistmeadow Witch,Modern Masters 2017,Normal,Near Mint,English,3318977,$0.12,67
 1,Arachnus Spinner,Modern Masters 2017,Normal,Near Mint,English,3318317,$0.21,67
@@ -3377,15 +3363,12 @@ Quantity,Name,Set,Printing,Condition,Language,SKU,Price Each,Lot
 1,Deafening Silence,Throne of Eldraine,Normal,Near Mint,English,4194289,$2.11,67
 3,Shepherd of the Flock,Throne of Eldraine,Normal,Near Mint,English,4205052,$0.1,67
 1,"Siona, Captain of the Pyleas",Theros Beyond Death,Normal,Near Mint,English,4297916,$0.24,67
-1,Gray Merchant of Asphodel,Theros Beyond Death,Normal,Near Mint,English,4287108,$0.41,67
-2,"Daxos, Blessed by the Sun",Theros Beyond Death,Normal,Near Mint,English,4284396,$0.22,67
 2,Staggering Insight,Theros Beyond Death,Normal,Near Mint,English,4284996,$0.23,67
 3,Reverent Hoplite,Theros Beyond Death,Normal,Near Mint,English,4291366,$0.15,67
 1,"Valduk, Keeper of the Flame",Dominaria,Normal,Near Mint,English,3614119,$0.15,67
 1,Ministrant of Obligation,Ravnica Allegiance,Normal,Near Mint,English,3941385,$0.22,67
 1,Electrostatic Field,Guilds of Ravnica,Normal,Near Mint,English,3850575,$0.66,67
 1,Lava Coil,Guilds of Ravnica,Normal,Near Mint,English,3848588,$0.29,67
-1,Guild Summit,Guilds of Ravnica,Normal,Near Mint,English,3847797,$0.45,67
 1,Glowspore Shaman,Guilds of Ravnica,Normal,Near Mint,English,3849178,$0.14,67
 1,Despark,War of the Spark,Normal,Near Mint,English,4006562,$0.48,67
 1,Grateful Apparition,War of the Spark,Normal,Near Mint,English,3997867,$0.22,67
@@ -3395,7 +3378,6 @@ Quantity,Name,Set,Printing,Condition,Language,SKU,Price Each,Lot
 1,Melt Terrain,Scars of Mirrodin,Normal,Near Mint,English,395080,$0.14,67
 1,Viashino Slaughtermaster,Conflux,Normal,Near Mint,English,255430,$0.1,67
 1,Hunger of the Howlpack,Conspiracy,Normal,Near Mint,English,1187985,$0.19,67
-1,Mizzium Skin,Return to Ravnica,Normal,Near Mint,English,1044045,$0.17,67
 1,Toxic Nim,New Phyrexia,Normal,Near Mint,English,417126,$0.14,67
 1,Smoldering Butcher,Eventide,Normal,Near Mint,English,182725,$0.13,67
 1,Disciple of Griselbrand,Innistrad,Normal,Near Mint,English,505961,$0.23,67
@@ -3428,12 +3410,10 @@ Quantity,Name,Set,Printing,Condition,Language,SKU,Price Each,Lot
 1,Fists of Ironwood,Modern Masters 2017,Normal,Near Mint,English,3318707,$0.14,67
 2,Penumbra Spider,Modern Masters 2017,Normal,Near Mint,English,3319097,$0.1,67
 4,Grisly Spectacle,Modern Masters 2017,Normal,Near Mint,English,3318837,$0.11,67
-1,Kor Skyfisher,Modern Masters 2017,Normal,Near Mint,English,3318927,$0.24,67
 1,Penumbra Spider,Modern Masters 2017,Normal,Near Mint,English,3319097,$0.1,67
 1,Wing Splicer,Modern Masters 2017,Normal,Near Mint,English,3317437,$0.13,67
 1,Ghostly Flicker,Modern Masters 2017,Normal,Near Mint,English,3318747,$0.95,67
 2,Slime Molding,Modern Masters 2017,Normal,Near Mint,English,3319437,$0.1,67
-1,Falkenrath Noble,Modern Masters 2017,Normal,Near Mint,English,3318687,$0.21,67
 1,Goblin Gaveleer,Scars of Mirrodin,Normal,Near Mint,English,393745,$0.12,67
 1,Torrent of Souls,Modern Masters 2017,Normal,Near Mint,English,3319577,$0.13,67
 1,Sprouting Thrinax,Modern Masters 2017,Normal,Near Mint,English,3316557,$0.1,67
@@ -3466,21 +3446,17 @@ Quantity,Name,Set,Printing,Condition,Language,SKU,Price Each,Lot
 1,Druid's Deliverance,Modern Masters 2017,Normal,Near Mint,English,3318627,$0.13,67
 1,Mortician Beetle,Modern Masters 2017,Normal,Near Mint,English,3316981,$0.36,67
 1,Dinrova Horror,Modern Masters 2017,Normal,Near Mint,English,3318597,$0.1,67
-1,Ghostly Flicker,Modern Masters 2017,Normal,Near Mint,English,3318747,$0.95,67
 1,Orzhov Guildgate,Modern Masters 2017,Normal,Near Mint,English,3316002,$0.23,67
 1,Gaea's Anthem,Modern Masters 2017,Normal,Near Mint,English,3318727,$0.27,67
 1,Banishing Stroke,Modern Masters 2017,Normal,Near Mint,English,3318387,$0.1,67
 1,Dusk Legion Dreadnought,Ixalan,Normal,Near Mint,English,3463829,$0.1,67
-1,Siren Stormtamer,Ixalan,Normal,Near Mint,English,3464101,$0.48,67
 1,Pirate's Prize,Ixalan,Normal,Near Mint,English,3470400,$0.12,67
 1,Merfolk Branchwalker,Ixalan,Normal,Near Mint,English,3467182,$0.13,67
 1,Sheltering Light,Ixalan,Normal,Near Mint,English,3470130,$0.22,67
 2,Rile,Ixalan,Normal,Near Mint,English,3466227,$0.12,67
-1,Fiery Cannonade,Ixalan,Normal,Near Mint,English,3470970,$0.1,67
 1,Alpine Grizzly,Khans of Tarkir,Normal,Near Mint,English,1257907,$0.13,67
 1,Mardu Charm,Khans of Tarkir,Normal,Near Mint,English,1255014,$0.1,67
 2,Prying Blade,Ixalan,Normal,Near Mint,English,3470060,$0.2,67
-1,Pounce,Ixalan,Normal,Near Mint,English,3470440,$0.1,67
 13,Cathar's Shield,Eldritch Moon,Normal,Near Mint,English,3158571,$0.14,67
 4,Blood Mist,Eldritch Moon,Normal,Near Mint,English,3158511,$0.24,67
 1,Goblin Lookout,Legions,Normal,Near Mint,English,23143,$0.3,67
